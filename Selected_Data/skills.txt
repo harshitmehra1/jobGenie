@@ -1,0 +1,323 @@
+ACIS
+Active listening
+Agile methodology
+API development
+Appointment scheduling
+Auditing
+Autonomy in practice
+B2B sales
+BLS
+Budgeting
+CAO
+Calendar management
+Case coverage
+Cash handling
+CIVIL litigation
+Client relationship management
+Cleanliness & maintenance
+Clinical consulting
+Clinical dentistry
+Clinical documentation
+Closing sales
+Cold calling
+Cold outreach
+Communication (verbal & written)
+Communication skills
+Compassion and patience
+Computer proficiency
+Conflict resolution
+Continuing education
+Controller responsibilities
+CRM software
+CRM tools
+Cross-functional team coordination
+Customer engagement
+Customer needs analysis
+Customer relationship management
+Customer service
+Data entry
+Data visualization (Tableau/Power BI)
+Database querying (SQL)
+Debt reduction analysis
+Decision-making
+Dental technology
+Discretion/confidentiality
+Documentation
+Driver’s license
+Dysrhythmia identification
+ECG interpretation
+Email handling
+EMR systems (e.g., Epic)
+ERP systems (e.g., SAP, Oracle)
+Excel (formulas, pivot tables, VLOOKUP)
+Executive calendar management
+Exposure to hazards
+Faxing, filing, scanning
+Field communication
+File systems
+Financial analysis
+Financial forecasting
+Financial reporting
+Filing systems
+Flexibility
+Flexibility in shifts
+Forecasting
+Front desk operations
+GAAP knowledge
+GAAS (Generally Accepted Auditing Standards)
+Git/version control
+Guest service
+Healthcare professional engagement
+High academic credentials
+HIPAA compliance
+Hospital experience
+Independent planning & execution
+Infection control
+Internal controls
+Interviewing techniques
+Inventory control
+Inventory management
+Inventory restocking
+Inventory tracking
+Java
+Journal entries
+Jira/Trello/MS Project
+Law interpretation
+Leadership
+Lead conversion
+Lead generation
+Legal documentation
+Legal research
+Legal writing
+Market analysis & feedback
+Meeting preparation
+Merchandising
+Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)
+Multitasking
+Negotiation
+Office management software
+Organizational skills
+Patient care
+Patient documentation
+Payroll knowledge
+Phone handling
+PMI certification
+Point of Sale (POS) systems
+Problem resolution
+Problem-solving
+Product knowledge
+Product pitching
+Professional liability knowledge
+Project management
+Project planning
+Proposal writing
+Python
+QuickBooks or similar accounting tools
+Quota achievement
+Reception management
+Reconciliation
+Referrals management
+Registered nursing
+Report writing
+Retail operations
+Retail sales
+Risk management / registry
+Sales pipeline management
+Sales strategy
+Sales support
+Salesforce (or similar CRM)
+Scheduling
+Self-starter attitude
+Shift scheduling
+Software architecture
+Software development lifecycle
+Standing, lifting, walking
+State license (DMD/DDS/BDS)
+State-specific licenses
+Stakeholder communication
+Stakeholder coordination
+Store operations
+Strategic thinking
+Subpoena documentation
+System design
+Team collaboration
+Team leadership
+Team management
+Team supervision
+Technical & product knowledge (Medical Devices)
+Telemetry monitoring
+Telephone etiquette
+Time management
+Tool deployment experience
+Training & education delivery
+Travel coordination
+Treatment planning
+Upselling / Cross-selling
+Version control (Git)
+Workflow optimization
+Waterfall model
+Cloud computing 
+AWS 
+Azure 
+GCP
+Data analysis 
+Pandas 
+NumPy
+Machine Learning basics
+Cybersecurity awareness
+DevOps tools 
+Docker 
+Jenkins
+REST APIs
+CI/CD pipelines
+Agile Scrum certifications
+HTML CSS JavaScript 
+for frontend roles
+NoSQL databases 
+MongoDB 
+Prompt Engineering (for LLM interaction)
+Critical thinking
+Adaptability
+Emotional intelligence
+Remote collaboration tools 
+Zoom 
+Slack
+MS Teams
+Time blocking
+Professional writing
+DEI (Diversity, Equity, Inclusion) awareness
+Big Data (Hadoop, Spark)
+ETL (Extract, Transform, Load)
+Business Intelligence (BI tools)
+SQL optimization
+Linux/Unix command line
+Kubernetes
+GraphQL
+Web scraping (BeautifulSoup, Scrapy)
+TensorFlow / PyTorch
+Data Warehousing (Snowflake, Redshift)
+Data Governance
+Data Modeling
+Object-Oriented Programming (OOP)
+Agile testing (QA automation)
+Test-driven development (TDD)
+Unit testing / integration testing
+SaaS product development
+PowerShell scripting
+Data lake architecture
+Computer vision basics
+NLP (Named Entity Recognition, Topic Modeling)
+Time series forecasting
+Google Analytics
+Firebase
+R (for data science)
+Cost accounting
+Revenue forecasting
+Variance analysis
+Budget reconciliation
+SOX compliance
+Financial modeling
+Risk auditing
+Accounts payable/receivable
+Financial statement preparation
+Payroll processing (ADP, Gusto)
+Business analysis (BABOK framework)
+Vendor management
+Treasury operations
+Bookkeeping software (Xero, Tally)
+Portfolio analysis
+Mergers & acquisitions support
+Credit analysis
+Internal audit controls
+ROI analysis
+Asset management
+Electronic Health Records (EHR)
+ICD-10 coding
+Patient triage
+Medical transcription
+Medication reconciliation
+Vital signs monitoring
+Medical billing software (Kareo, AdvancedMD)
+Surgical assistance
+Healthcare compliance
+Pathology terminology
+Medical imaging familiarity
+Pharmacology basics
+SOAP notes handling
+Insurance pre-authorization
+Radiology data handling
+Home care coordination
+Telemedicine tools (Amwell, Doxy.me)
+EMT skills
+Patient confidentiality compliance
+Electronic Health Records (EHR)
+ICD-10 coding
+Patient triage
+Medical transcription
+Medication reconciliation
+Vital signs monitoring
+Medical billing software (Kareo, AdvancedMD)
+Surgical assistance
+Healthcare compliance
+Pathology terminology
+Medical imaging familiarity
+Pharmacology basics
+SOAP notes handling
+Insurance pre-authorization
+Radiology data handling
+Home care coordination
+Telemedicine tools (Amwell, Doxy.me)
+EMT skills
+Patient confidentiality compliance
+Zendesk / Freshdesk
+Helpdesk ticketing systems
+Remote team scheduling
+HRIS systems (Workday, BambooHR)
+Employee onboarding
+Leave and benefits management
+Payroll software (QuickBooks Payroll, Paychex)
+Conflict de-escalation
+Time-off tracking
+Document proofreading
+Professional email etiquette
+Calendar sync tools (Calendly, Doodle)
+Google Workspace proficiency
+Slack etiquette
+Meeting notes transcription
+Virtual receptionist tools
+Email campaign tools (Mailchimp, Constant Contact)
+A/B testing
+Product lifecycle management
+Social media marketing
+SEO/SEM tools (Ahrefs, SEMrush)
+Market segmentation
+Funnel analysis
+Customer segmentation
+Value proposition design
+Competitive benchmarking
+Product demo delivery
+Pricing strategy
+Ad copywriting
+Influencer collaboration
+KPI tracking
+Product roadmap planning
+Google Ads / Facebook Ads
+CRM data hygiene
+Account-based marketing
+Sales enablement
+Conflict management
+Remote team leadership
+Presentation delivery (Pitch decks)
+Workload prioritization
+Empathy in leadership
+Crisis communication
+Cultural intelligence
+Negotiation under pressure
+Personal branding
+Visual storytelling
+Emotional resilience
+Proactive problem-solving
+Continuous learning mindset
+Self-leadership
+Growth mindset
+Professional networking
