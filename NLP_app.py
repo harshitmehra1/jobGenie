@@ -2,7 +2,7 @@
 from Recommender.resume_parser import parse_resume
 from Recommender.match_jobs import find_matching_jobs
 
-resume_path = "./Selected_Data/sample_resumes/resume1.pdf"
+resume_path = "./Selected_Data/sample_resumes/resume2.pdf"
 job_data_path = "./Selected_Data/under_100mb.csv"
 
 print("📄 Parsing resume...")
