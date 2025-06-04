@@ -21,27 +21,33 @@ def extract_text_from_pdf(pdf_path):
 def extract_details(text):
     doc = nlp(text)
 
-    # Email extraction
+    # Extract email
     email = re.findall(r"[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+", text)
     email = email[0] if email else None
 
-    # Phone number extraction
+    # Extract phone
     phone = re.findall(r"\+?\d[\d\s]{8,15}", text)
     phone = phone[0] if phone else None
 
-    # Name (using first PERSON entity)
+    # ✅ Smarter name extraction: check first 3 lines
+    lines = text.strip().split('\n')
     name = None
-    for ent in doc.ents:
-        if ent.label_ == "PERSON":
-            name = ent.text
+    for line in lines[:3]:
+        clean = line.strip()
+        if clean and not any(x in clean.lower() for x in ['@', '+', 'linkedin', 'email', 'phone', 'mp', 'india', 'usa']):
+            name = clean
             break
 
-    # ✅ Load skill list and extract matching skills from text
-    known_skills = load_skills_from_file()
-    words = re.findall(r'\b[a-zA-Z][a-zA-Z\s]+\b', text.lower())  # extract all possible phrases
-    found_skills = set()
+    # If still no name, fallback to spaCy PERSON entity
+    if not name:
+        for ent in doc.ents:
+            if ent.label_ == "PERSON":
+                name = ent.text
+                break
 
-    # Match both one-word and multi-word skills
+    # Load known skills and extract from text
+    known_skills = load_skills_from_file()
+    found_skills = set()
     for skill in known_skills:
         if skill.lower() in text.lower():
             found_skills.add(skill)
@@ -52,6 +58,7 @@ def extract_details(text):
         "phone": phone,
         "skills": sorted(list(found_skills))
     }
+
 
 # ✅ Entry point for resume parsing
 def parse_resume(pdf_path):
