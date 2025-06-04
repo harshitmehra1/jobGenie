@@ -321,3 +321,127 @@ Continuous learning mindset
 Self-leadership
 Growth mindset
 Professional networking
+python
+java
+c++
+c#
+javascript
+typescript
+r
+scala
+sql
+bash
+go
+html
+css
+excel
+power bi
+tableau
+lookerstudio
+data visualization
+data wrangling
+data cleaning
+data mining
+statistics
+exploratory data analysis
+regression analysis
+time series
+ab testing
+jupyter notebook
+vs code
+eclipse
+pycharm
+anaconda
+postman
+github
+gitlab
+jira
+confluence
+linux
+windows
+docker
+kubernetes
+airflow
+databricks
+mysql
+postgresql
+mongodb
+oracle
+snowflake
+bigquery
+dynamodb
+firebase
+redis
+neo4j
+elasticsearch
+hive
+hdfs
+aws s3
+aws
+azure
+gcp
+google cloud platform
+amazon web services
+microsoft azure
+spark
+hadoop
+hive
+kafka
+flink
+pyspark
+etl
+data pipeline
+data warehouse
+data lake
+apache beam
+machine learning
+deep learning
+neural networks
+nlp
+cv
+computer vision
+tensorflow
+keras
+pytorch
+scikit-learn
+huggingface
+llms
+chatgpt
+openai
+generative ai
+transformers
+bert
+gpt
+model deployment
+model training
+prompt engineering
+rag
+vector database
+langchain
+pinecone
+chromadb
+weaviate
+embedding models
+text classification
+image classification
+object detection
+clustering
+recommendation system
+xgboost
+lightgbm
+agile
+scrum
+kanban
+stakeholder management
+requirement gathering
+business analysis
+product management
+roadmap planning
+cross-functional teams
+project delivery
+time management
+communication
+presentation skills
+storyboarding
+gap analysis
+risk management
